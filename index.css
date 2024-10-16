@@ -1,0 +1,21 @@
+
+
+.timeSet{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.bg{
+    background-image: radial-gradient(rgb(101, 194, 206),rgb(180, 178, 54),rgb(209, 198, 176));
+    
+}
+.bgh{
+    background-image: radial-gradient(rgba(241, 233, 113, 0.551),rgb(76, 223, 253),rgb(179, 210, 100));
+    width: 75%;
+}
+select{
+    width: 200px;
+    font-weight: bolder;
+    
+    border: 3px solid aqua;
+}
